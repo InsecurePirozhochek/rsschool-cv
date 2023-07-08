@@ -12,3 +12,5 @@ February 2023 - present : QA Engineer at Russian car dealer
 * 2012-2016 : Plekhanov Russian University of Economics
 * 2016 - 2018 : Financial University under the Government of the Russian Federation
 ## Languages: 
+* Russian - Native
+* English - B2
