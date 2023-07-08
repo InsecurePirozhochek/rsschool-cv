@@ -1,1 +1,1 @@
-# rsschool-cv
+[My CV link](https://insecurepirozhochek.github.io/rsschool-cv/)
